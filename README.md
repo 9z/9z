@@ -2,7 +2,6 @@
 
 I'm a Web **Back-end Developer**👨 Using Node.js, Typescript etc.
 
-- 🔭 I’m currently working on [BOLD9](https://github.com/bold-9).
 - 📫 contact: slts0405@gmail.com
 
 <br/>
